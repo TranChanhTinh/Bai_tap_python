@@ -10,4 +10,4 @@ def thirdMethod():
 def fourthMethod(): 
     print("I am the fourth Method") 
 
-fourthMethod()
+firstMethod()
